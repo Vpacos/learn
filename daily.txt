@@ -1,0 +1,20 @@
+7月4日 星期一
+Done：
+熟悉环境、分工、调研Marker图像识别的算法
+OpenCV中有一个ArUco的库，可以处理一些特定的marker（用于增强现实）
+简单看到有一些multi-color的marker，以及hough和contour对轮廓及形状的识别
+
+7月5日 星期二
+Todo：
+继续调研相关算法，实现其中一种，检验效果
+Done：
+下载了一天github
+把环境编译配置完成。。。
+烧掉一架飞机
+
+7月6日 星期三
+Todo：
+完整验证aruco的算法，尝试自行实现
+Doing：
+已经可以生成ArUco的marker
+Done：
